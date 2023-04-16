@@ -36,7 +36,7 @@ div.text1 {border:2px solid orange; width: 85%; height: 325px; background-color:
 
 div.店内2 img {border:2px solid orange; width: 85%; background-color: rgba(100, 250, 0, 0.2); display: block; margin: 0 auto; }
 　
- div.子1 {border:2px solid pink; width: 99%; height: 600px; background-color: rgba(0, 150, 50, 0.2); display: flex; position: relative; }
+ div.子1 {border:2px solid pink; background-color: rgba(0, 150, 50, 0.2); display: flex; justify-content: center; position: relative; }
  div.ヘア1 img {border:5px solid orange; width: 30%; box-sizing: content-box; }
  div.ヘア2 img {border:5px solid orange; width: 30%; box-sizing: content-box; }
  div.ヘア3 img {border:5px solid orange; width: 30%; box-sizing: content-box; }
