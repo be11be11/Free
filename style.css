@@ -4,10 +4,10 @@
 
 .bar {
    position: fixed; /* 固定配置 */
-　　box-sizing: border-box; 
    top: 10px;  /* 基点（ウィンドウ）からの距離 */
-   left: 27.5%;  /* 基点（ウィンドウ）からの距離 */
+   right: 20px;  /* 基点（ウィンドウ）からの距離 */
    width: 20%;
+   border:1px solid #D49999; 
    background-color:rgba(0,250,200,0.2);
    z-index: 9;
 }
@@ -19,7 +19,7 @@ p {
   z-index: 10; 
 }
   
-div.祖 {width: 100%; padding: 2px; border: 1.5px solid pink; box-sizing: border-box; display: flex; flex-flow: column; position: relative; touch-action:none; }
+div.祖 {width: 100%; padding: 2px; border: 1.5px solid pink; box-sizing: border-box; display: flex; flex-flow: column; position: relative; }
 div.親1 {width: 99%; height: 325px; box-sizing: border-box; width: 100%; position: relative; }
 div.親2 {width: 99%; height: 700px; box-sizing: border-box; width: 100%; display: flex; flex-flow: column; text-align: center; }
 div.親3 {width: 99%; height: 750px; box-sizing: border-box; width: 100%; display: flex; flex-flow: column; border: 2px solid lime; background-color:rgba(0,250,200,0.2); box-sizing: border-box; text-align: left; font-size: 90%; }
