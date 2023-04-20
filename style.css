@@ -6,7 +6,7 @@ div.親 {border:2px solid blue; width: 100%; background-color: rgba(200, 0, 100,
 div.子 {border:2px solid aqua; width: 99%; height: 325px; background-color: rgba(0, 150, 50, 0.2); position: relative; text-align: center; }
 div.テキスト {border:2px solid pink; width: 45%; height: 25px; background-color: rgba(100, 0, 50, 0.2); position: absolute; margin-top: 15px; z-index: 2; } 
   
-img.ヘア1 {border:5px solid orange; width: 45%; background-color: rgba(100, 250, 0, 0.2); position: absolute; margin-top: 75px;  z-index: 2; }
+img.ヘア1 {border:5px solid orange; width: 45%; background-color: rgba(100, 250, 0, 0.2); position: absolute; margin-top: 75px; display:block; margin-left: 5px; z-index: 2; }
 img {border:5px solid orange; width: 45%; background-color: rgba(100, 250, 0, 0.2); z-index: 2; }
 img.ヘア2 {border:5px solid orange; width: 45%; background-color: rgba(100, 250, 0, 0.2); opacity: 0; z-index: -1; }
 
