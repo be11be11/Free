@@ -7,7 +7,7 @@ div.子 {border:2px solid aqua; width: 99%; height: 325px; background-color: rgb
 div.テキスト {border:2px solid pink; width: 45%; height: 25px; background-color: rgba(100, 0, 50, 0.2); position: absolute; margin-top: 15px; margin-left: 0; } 
   
 img.ヘア1 {border:5px solid orange; width: 45%; background-color: rgba(100, 250, 0, 0.2); position: absolute; margin-top: 75px; text-align: start; }
-img.ヘア2 {border:5px solid orange; width: 45%; background-color: rgba(100, 250, 0, 0.2); position: absolute; margin-top: -20px; margin-right: auto; }
+img.ヘア2 {border:5px solid orange; width: 45%; background-color: rgba(100, 250, 0, 0.2); position: absolute; margin-top: -15px; text-align: right; }
 img {border:5px solid orange; width: 45%; background-color: rgba(100, 250, 0, 0.2); }
 
 }
