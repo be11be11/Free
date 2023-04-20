@@ -8,6 +8,7 @@ div.テキスト {border:2px solid pink; width: 45%; height: 25px; background-co
   
 img.ヘア1 {border:5px solid orange; width: 45%; background-color: rgba(100, 250, 0, 0.2); position: absolute; margin-top: 75px; text-align: start; }
 img {border:5px solid orange; width: 45%; background-color: rgba(100, 250, 0, 0.2); }
+img.ヘア2 {border:5px solid orange; width: 45%; background-color: rgba(100, 250, 0, 0.2); opacity: 0.5;}
 
 }
 /*img.ヘア2 {border:5px solid orange; width: 45%; background-color: rgba(100, 250, 0, 0.2); position: absolute; margin-top: -15px; text-align: right; }/*
